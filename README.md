@@ -1,5 +1,5 @@
 <h1>ANIMAL DATA GRABBER</h1>  
-<h3>Great for gathering pictures of animals, and using these pictures as inputs to machine learning!</h3>
+<h3>Great for gathering pictures of animals, and using these pictures as inputs for machine learning!</h3>
 
 <h4>
 This was built mostly from Claude. This is version 1.0 and I have not thoroughly went through this code. Please use with discresion.
