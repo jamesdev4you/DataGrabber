@@ -6,8 +6,7 @@ This was built mostly from Claude. This is version 1.0 and I have not thoroughly
 The goal is to build an app that uses neural networks to analyze the crediablilty of images. ( Classify images. i.e: Is this, or is this not a White Ibis? ).
 </h4>
 
-To build a n.n. we must first gather quality data. This is said "quality data" for animals. It works fantastic on my windows 11 computer. Tests in Ubuntu and MacOS will eventually 
-be done.
+To build a n.n. we must first gather quality data. This is said "quality data" for animals. It works fantastic on windows 11 and Ubuntu.  MacOS will eventually be done.
 
 This is an GBIF API Data Grabber that uses https://www.inaturalist.org recommended way to gather data.
 
