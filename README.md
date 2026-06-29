@@ -1,4 +1,4 @@
-This was built mostly from Claude. This is version 1 and I have not thoroughly went through this code. Please use with discresion.
+This was built mostly from Claude. This is version 1.0 and I have not thoroughly went through this code. Please use with discresion.
 The goal is to build an app that uses neural networks to analyze the crediablilty of images. ( Classify images. i.e: Is this, or is this not a White Ibis? ).
 
 To build a n.n. we must first gather quality data. This is said "quality data" for animals. It works fantastic on my windows 11 computer. Tests in Ubuntu and MacOS will eventually 
