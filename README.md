@@ -1,3 +1,6 @@
+#ANIMAL DATA GRABBER
+###Great for gathering pictures of animals, and using these pictures as inputs to machine learning!
+
 This was built mostly from Claude. This is version 1.0 and I have not thoroughly went through this code. Please use with discresion.
 The goal is to build an app that uses neural networks to analyze the crediablilty of images. ( Classify images. i.e: Is this, or is this not a White Ibis? ).
 
